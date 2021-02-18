@@ -5,7 +5,7 @@ factory-boy==2.11.1
 faker==1.0.4
 filelock==3.0.10
 inflection==0.3.1
-lxml==4.3.2
+lxml==4.6.2
 more-itertools==6.0.0; python_version > '2.7'
 pluggy==0.9.0
 py==1.8.0
